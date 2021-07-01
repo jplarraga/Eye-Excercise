@@ -1,6 +1,8 @@
 # Eye-Excercise
 A project designed to show the power of the DOM, an Eye will follow the movement of the mouse
 
+<img src="images/eyes1.png" alt="eyes">
+
 <h2> Description </h2>
   
 <p> This project uses thhe DOM as a way to access to HTML through the use of javascript and manipulate the elements in order to give it an interacction wit the user interface. The elements are created on HTML then they are styled using CSS and finally the behaviour of the eye in direct relation with the mouse movement is made with Javascript</p>
